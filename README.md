@@ -2,7 +2,7 @@
 
 A full-stack web application built as a learning project by following a YouTube tutorial and implementing the project end-to-end with a separate frontend and backend architecture.
 
-## 🚀 Overview
+## Overview
 
 Servd is a full-stack project with:
 
@@ -14,7 +14,7 @@ This project helped me practice full-stack development concepts including API in
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 ### Frontend
 - JavaScript
@@ -28,7 +28,7 @@ This project helped me practice full-stack development concepts including API in
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 servd/
@@ -48,7 +48,7 @@ servd/
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### 1) Clone the repository
 
@@ -90,7 +90,7 @@ npm run dev
 
 ---
 
-## 🧪 Learning Goals
+## Learning Goals
 
 This project was built to learn and practice:
 
@@ -102,7 +102,7 @@ This project was built to learn and practice:
 
 ---
 
-## ✅ Current Status
+## Current Status
 
 - [x] Frontend and backend setup
 - [x] End-to-end local development structure
@@ -112,7 +112,7 @@ This project was built to learn and practice:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Add authentication/authorization improvements
 - Improve UI/UX and responsiveness
@@ -122,13 +122,13 @@ This project was built to learn and practice:
 
 ---
 
-## 🙌 Acknowledgement
+##  Acknowledgement
 
 This project was inspired by a YouTube tutorial and recreated as a personal learning exercise.
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Rahul Garg**  
 GitHub: [RahulGarg-1929](https://github.com/RahulGarg-1929)
